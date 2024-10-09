@@ -6,6 +6,7 @@ I'm passionate about **Python**, **Data Science**, **Machine Learning**, and **D
 - 📊 **Data Science**: Exploring data, building insights, and making data-driven decisions.
 - 🤖 **Machine Learning**: Creating predictive models to solve real-world problems.
 - 🧠 **Deep Learning**: Diving deeper into neural networks and advanced AI models.
+- Data Scientist | Passionate about Machine Learning & Data-Driven Insights
 
 🌱 Currently learning and building projects in **Machine Learning** and **Deep Learning**.  
 🚀 Looking forward to collaborating on data science projects and contributing to open-source communities.  

@@ -1,3 +1,26 @@
+![](assets/Bottom_up.svg)
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/elhariri78/elhariri78"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/elhariri78/elhariri78/graphs/contributors"><img src="https://img.shields.io/github/contributors/elhariri78/elhariri78?color=blue"></a>
+    <a href="https://github.com/elhariri78/elhariri78/stargazers"><img src="https://img.shields.io/github/stars/elhariri78/elhariri78.svg?logo=github"></a>
+    <a href="https://github.com/elhariri78/elhariri78/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=elhariri78.elhariri78" alt="visitors"/>   
+</p>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
+
+
+
+
+
+
 # 👋 Hi there!
 
 I'm passionate about **Python**, **Data Science**, **Machine Learning**, and **Deep Learning**. I’m on an exciting journey to enhance my skills in:

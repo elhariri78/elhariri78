@@ -90,4 +90,7 @@ I'm passionate about **Python**, **Data Science**, **Machine Learning**, and **D
 </a>
 
 
+
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=elhariri78&row=1)](https://github.com/elhariri78/github-profile-trophy)
+
 ###

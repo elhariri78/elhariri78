@@ -91,6 +91,25 @@ I'm passionate about **Python**, **Data Science**, **Machine Learning**, and **D
 
 
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=elhariri78&row=1)](https://github.com/elhariri78/github-profile-trophy)
+[![elhariri78's github trophy](https://github-profile-trophy.vercel.app/?username=elhariri78&row=1)](https://github.com/elhariri78/github-profile-trophy)
+
+
+
+
+
+
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![elhariri78's github stats](https://github-readme-stats.vercel.app/api?username=elhariri78&show_icons=true&theme=radical&include_all_commits=true) | ![elhariri78's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elhariri78&theme=radical&layout=compact) |
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elhariri78"></img>
+
+<!-- dark snake -->
+![elhariri78's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ###
